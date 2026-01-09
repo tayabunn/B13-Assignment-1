@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* shared style */
+.font-inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+
+/* navbar style */
+.navbar {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+
+.btn {
+    background-color: #30b868;
+    border: none;
+    padding: 12.5px 16px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+}
+
+.section-heading {
+    max-width: 1600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
